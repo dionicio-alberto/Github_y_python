@@ -1,6 +1,15 @@
 # Github_y_python
 Repositorio del curso Python con Git y GitHub en Platzi
 
+## Juego piedra papel o tijera
+Dentro de la carpeta game, esta incluido el juego de piedra, papel o tijera. Las instrucciones para correrlo desde terminal son las siguientes
+
+```sh
+cd game
+python3 main.py
+```
+-----------------
+
 Ahora mismo usamos el markdown, para ver que tal sale
 >El que tenga miedo de morir que no nazca
 *letras en cursiva*
