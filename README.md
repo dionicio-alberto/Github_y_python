@@ -10,6 +10,20 @@ python3 main.py
 ```
 -----------------
 
+## Programa para generar graticas
+
+Dentro de la carpeta charts se ha creado un programa el cual nos crea una gráfica, para ustar este programa
+
+![Grafica creada con el programa main.py dentro de la carpeta charts](charts/pie.png)
+
+para usar el programa, las instrucciones son:
+
+```sh
+cd charts
+python3 main.py
+```
+------
+
 Ahora mismo usamos el markdown, para ver que tal sale
 >El que tenga miedo de morir que no nazca
 *letras en cursiva*
