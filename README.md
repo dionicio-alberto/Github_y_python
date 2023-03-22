@@ -24,6 +24,7 @@ para usar el programa, las instrucciones son:
 ```sh
 git clone
 cd charts
+python3 -m venv env
 source env1/bin/activate
 pip3m install -r requirements.txt
 python3 main.py
