@@ -22,7 +22,10 @@ Dentro de la carpeta charts se ha creado un programa el cual nos crea una gráfi
 para usar el programa, las instrucciones son:
 
 ```sh
+git clone
 cd charts
+source env1/bin/activate
+pip3m install -r requirements.txt
 python3 main.py
 ```
 
